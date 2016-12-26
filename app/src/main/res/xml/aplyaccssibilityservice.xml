@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    android:packageNames="com.eg.android.AlipayGphone"
+    android:notificationTimeout="50"
+    android:description="@null"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:accessibilityFlags="flagDefault"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityEventTypes="typeAllMask"
+    xmlns:android="http://schemas.android.com/apk/res/android"/>
